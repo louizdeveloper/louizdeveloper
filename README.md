@@ -4,7 +4,7 @@
         <a href="https://github.com/louizdeveloper"><img src="https://github-readme-stats.vercel.app/api?username=louizdeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
         align="right"></a>
       - 🔭 Estudante de Analise e Desenvolvimento de Sistemas <br>
-      - 🌱 Praticando muito Front-end <br>
+      - ❤  Apaixonado pelo Front-end <br>
       - 🤔 Qualquer ajuda é sempre bem - vinda <br>              
       - 📫 meu instagram : @louiz.developer <br>
       - 😄 Luiz :) <br>
